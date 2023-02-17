@@ -1,0 +1,21 @@
+    .cards-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0 auto;
+    }
+
+    .plans-main{
+        display: flex; 
+        height: 316px;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .card-plan{
+        width: auto;           
+    }
+    
+    .tables-exchange{
+        overflow:visible;
+    }
